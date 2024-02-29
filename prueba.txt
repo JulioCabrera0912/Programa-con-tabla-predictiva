@@ -1,0 +1,1 @@
+{ var int | float | string name = takeData () }
